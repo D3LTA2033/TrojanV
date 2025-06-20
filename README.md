@@ -88,7 +88,7 @@ Pull requests and forks are welcome — as long as your additions respect the pr
 
 Contact
 For permission, inquiries, or questions:
-📧 [YourContactEmail@example.com]
+📧 inroot.ceo@gmail.com
 🌐 https://inrootcorporation.netlify.app/
 
 Disclaimer
