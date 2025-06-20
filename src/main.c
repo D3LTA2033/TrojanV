@@ -4,7 +4,7 @@
 #include "consent.h"
 
 int main(void) {
-    printf("=== Trojan V Educational Simulation ===\n");
+    printf("=== Trojan V ===\n");
 
     if (!get_user_consent()) {
         printf("User declined to run payload. Exiting.\n");
@@ -18,7 +18,6 @@ int main(void) {
         printf("[*] VM environment detected. Proceeding safely.\n");
     }
 
-    // Run simulated payloads
     payload_persistence();
     payload_c2_simulation();
 
@@ -26,6 +25,6 @@ int main(void) {
     // Uncomment and run at your own risk inside VM only
     // payload_dangerous();
 
-    printf("Simulation complete. Exiting.\n");
+    printf("complete. Exiting.\n");
     return 0;
 }
