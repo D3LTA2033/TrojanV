@@ -95,15 +95,7 @@ Disclaimer
 This software is provided "as is" without any warranty. Use at your own risk. /inroot corporation is not liable for any damage caused by running or modifying this project.
 
 yaml
-Kopiëren
-Bewerken
 
 ---
 
-Let me know if you want to add:
-
-- Screenshots or terminal output  
-- A “Live Demo” badge (for read-only simulation)  
-- A contributor section or GitHub badges at the top  
-
-I can also generate the `LICENSE` file in plain `.txt` if needed.
+By /inroot Corporation
